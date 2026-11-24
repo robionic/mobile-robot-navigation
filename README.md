@@ -4,6 +4,10 @@ A Python/Streamlit point-robot navigation simulator with an interactive map buil
 
 Inspired by the [Advanced Mobile Robot Navigation Simulation](https://engrprogrammer-shop.fourthwall.com/en-inr/products/advanced-mobile-robot-navigation-simulation-theta-apf-pure-pursuit-lidar-slam). This is an independent point-robot teaching simulator; it does not reproduce the reference project's four-wheel dynamics or full SLAM stack.
 
+## License and third-party materials
+
+The MIT license applies to original code and materials created for this repository. Third-party assets, data, dependencies, and model weights retain their own licenses and notices; the repository's MIT license does not relicense them.
+
 ## Features
 
 - Select **Theta\***, **A\***, **D\***, **Bi-RRT**, **RRT**, **Ant colony**, **Firefly**, **PRM**, **PRM\***, **APF**, or **Pure Pursuit** from the UI.
